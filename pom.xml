@@ -10,8 +10,8 @@
 	</parent>
 	<groupId>com.bankntt</groupId>
 	<artifactId>MSBusinessPartner</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>TemplateNTT</name>
+	<version>0.0.2-SNAPSHOT</version>
+	<name>MSBusinessPartner</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
